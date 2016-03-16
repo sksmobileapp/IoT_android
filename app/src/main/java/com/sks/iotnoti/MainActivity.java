@@ -47,9 +47,6 @@ public class MainActivity extends AppCompatActivity {
     private String HubName = "madukaIoTNotificationHub";
     private String HubListenConnectionString = "Endpoint=sb://madukaiotnotification.servicebus.windows.net/;SharedAccessKeyName=DefaultListenSharedAccessSignature;SharedAccessKey=Asan9YjvCHT5KjlwObTp8m0Q+9aQDongpIjRLU9d0KE=";
 
-
-    hello
-
     /**
      * Extra query parameter nux=1 uses new login page at AAD. This is optional.
      */
